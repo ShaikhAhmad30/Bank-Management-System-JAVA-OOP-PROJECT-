@@ -77,6 +77,9 @@ public class MainApp {
                     else
                         System.out.println("Account not found");
                     break;
+
+                case 6:
+                    System.exit(0);
             }
 
 
